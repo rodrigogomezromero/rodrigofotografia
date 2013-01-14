@@ -41,10 +41,17 @@ a:hover{
 }
 
 section, footer, header{
-	display: block;
+	
 }
 
+header{
+	background: none;
+}
 
+#Inicio{
+	margin-top:50%;
+	position: relative;
+}
 /*----------------------------
 	The Footer
 -----------------------------*/
